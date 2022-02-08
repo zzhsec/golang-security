@@ -1,5 +1,15 @@
 # Golang Security
 
+## 基础漏洞
+@SSTI
+- XSS
+  - https://blog.takemyhand.xyz/2020/05/ssti-breaking-gos-template-engine-to.html
+- File Read
+  - https://www.onsecurity.io/blog/go-ssti-method-research/
+- RCE
+  - https://www.onsecurity.io/blog/go-ssti-method-research/
+
+## 案例
 - https://github.com/Hardw01f/Vulnerability-goapp
 - @Vulnerability-goapp https://www.freebuf.com/articles/web/224363.html
 - @gitea https://www.leavesongs.com/PENETRATION/gitea-remote-command-execution.html
