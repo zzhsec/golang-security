@@ -1,1 +1,5 @@
-https://blog.riskivy.com/grafana-%E4%BB%BB%E6%84%8F%E6%96%87%E4%BB%B6%E8%AF%BB%E5%8F%96%E6%BC%8F%E6%B4%9E%E5%88%86%E6%9E%90%E4%B8%8E%E6%B1%87%E6%80%BBcve-2021-43798/
+https://blog.riskivy.com/grafana-任意文件读取漏洞分析与汇总cve-2021-43798/\
+- CVE-2021-43798 Directory Traversal
+
+https://jub0bs.com/posts/2022-02-08-cve-2022-21703-writeup/
+- CVE-2022-21703 Cross-origin Request Forgery
